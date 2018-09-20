@@ -1,0 +1,9 @@
+{
+  // based on jshint 2.9.3
+  // all the options with warnings about to be deprectead removed
+
+  //----------------------
+  // Enforcing options
+  //----------------------
+  "esversion"     : 6        // let's start moving to ES6
+}
