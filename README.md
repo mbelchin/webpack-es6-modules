@@ -5,7 +5,7 @@
 ![GitHub release](https://img.shields.io/github/release/mbelchin/webpack-es6-modules.svg)
 
 
-[![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%webpack-es6-modules&hashtags=webpack,ES6,modules,workflow)
+[![Twitter](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fmbelchin%2Fwebpack-es6-modules&hashtags=webpack,ES6,modules,workflow)
 
 *Read this in other languages: [English](README.md), [Español](README.es.md).*
 
@@ -15,9 +15,9 @@ Several tests about webpack, ES6 and ES6 modules
 
 ## Author
 
-[Moisés Belchín](https://moisesbm.wordpress.com)  
-[@moises_b_m](https://twitter.com/moises_b_m)  
-[https://github.com/mbelchin/](https://github.com/mbelchin/)  
+[Moisés Belchín](https://moisesbm.wordpress.com)
+[@moises_b_m](https://twitter.com/moises_b_m)
+[https://github.com/mbelchin/](https://github.com/mbelchin/)
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
